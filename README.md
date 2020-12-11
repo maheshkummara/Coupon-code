@@ -1,2 +1,1 @@
-# Coupon-code
-Like to develop a coupon site
+<p>Like to develop a coupon site<br>We have seen so many coupon sites Like <a href="https://couponappa.com/" class="rank-math-link">couponappa </a>, <a href="https://discountbro.com/" class="rank-math-link">Discountbro </a>, retailmenot etc..<br>I like to create a site like it.</p>
